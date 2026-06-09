@@ -28,9 +28,11 @@ Deberá realizar la pruebas unitarias de la tabla visits, en la clase VisitServi
 <img width="1012" height="655" alt="image" src="https://github.com/user-attachments/assets/28c9084a-3a31-4ad5-9f87-9cfd2f7cdd74" />
 
 
-# ELENAI RAMOS 
+# ELIENAI RAMOS 
 ## CASO 5:
 Deberá realizar las pruebas unitarias de la tabla types en la clase TypeServiceMockitoTest (o PetTypeServiceTest) en la aplicación petclinic_test, es decir las pruebas unitarias de creación, actualización, búsqueda y eliminación de tipos de mascotas (Type). Todo esto deberá realizarse en coordinación con su equipo de trabajo usando Git.
+<img width="1919" height="1020" alt="image" src="https://github.com/user-attachments/assets/46b18965-1b6d-4f58-9a66-a54de59c7371" />
+
 
 ## CASO 6:
 Deberá realizar las pruebas unitarias de la tabla vet_specialties en la clase VetSpecialtyServiceMockitoTest en la aplicación petclinic_test, es decir las pruebas unitarias de asignación de especialidades a veterinarios, búsqueda de especialidades por veterinario, búsqueda de veterinarios por especialidad, y eliminación de la relación veterinario-especialidad. Todo esto deberá realizarse en coordinación con su equipo de trabajo usando Git.
