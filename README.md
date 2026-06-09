@@ -20,8 +20,12 @@ Deberá realizar la pruebas unitarias de la tabla owners en la clase OwnerServic
 ## CASO 3 :
 Deberá realizar la pruebas unitarias de la tabla specialities en la clase SpecialityServiceMockitoTest en la aplicación peticlinic_test , es decir las pruebas unitarias de creación, actualización, búsqueda y eliminación de especialidades. Todo esto deberá realizarse en coordinación con su equipo de trabajo usando Git
 
+<img width="992" height="623" alt="image" src="https://github.com/user-attachments/assets/e10a0d37-3e58-4565-b060-99aefe560119" />
+
+
 ## CASO 4 :
 Deberá realizar la pruebas unitarias de la tabla visits, en la clase VisitServiceMockitoTest en la que aplicación peticlinic_test , es decir las pruebas unitarias de creación, actualización, búsqueda y eliminación de visitas. Todo esto deberá realizarse en coordinación con su equipo de trabajo usando Git
+<img width="1012" height="655" alt="image" src="https://github.com/user-attachments/assets/28c9084a-3a31-4ad5-9f87-9cfd2f7cdd74" />
 
 
 # ELENAI RAMOS 
