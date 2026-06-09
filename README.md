@@ -36,5 +36,7 @@ Deberá realizar las pruebas unitarias de la tabla types en la clase TypeService
 
 ## CASO 6:
 Deberá realizar las pruebas unitarias de la tabla vet_specialties en la clase VetSpecialtyServiceMockitoTest en la aplicación petclinic_test, es decir las pruebas unitarias de asignación de especialidades a veterinarios, búsqueda de especialidades por veterinario, búsqueda de veterinarios por especialidad, y eliminación de la relación veterinario-especialidad. Todo esto deberá realizarse en coordinación con su equipo de trabajo usando Git.
+<img width="1919" height="995" alt="image" src="https://github.com/user-attachments/assets/5ec1abb7-5237-4e71-8b4c-0b2dc149dffe" />
+
 
 
